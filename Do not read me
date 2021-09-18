@@ -1,0 +1,8 @@
+#include<zsc.h>
+
+int main()
+{
+   printf("helloooo world")
+   
+   return 0
+   }
